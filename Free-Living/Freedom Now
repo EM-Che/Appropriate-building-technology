@@ -9,7 +9,14 @@ Rocket Stove very well configured - build solid, tried and true, tested, works, 
  like cooking over propane. http://sudoroom.org/wiki/Rocket_stove
  
 Mesh wifi antenna? DIY? Battery inverter off-grid setup where you are? Free heat and utilities? more.. 
-http://freedomnexus.zapto.org
+http://www.simplewifi.com/wifi-antennas.html
+
+It's a matter of figuring out how to adequately share the signal that IS the internet. We can do this from houses, a shared password, a public network, a church, hackerspace, or otherwise access the backbone of the internet.
+
+Here is a pretty good way to do collaboratively, from source code: http://www.open-mesh.org/projects/batman-adv/wiki/Quick-start-guide
+And regularly plug-and-play: http://www.open-mesh.org/projects/open-mesh/wiki
+
+Electric: The best thing that we have right now is a gasoline generator.
 
 Street
 City
